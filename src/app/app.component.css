@@ -1,0 +1,8 @@
+.block {
+    width: 50vw;
+    height: 15rem;
+    padding: 2rem;
+    margin-top: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 0.8rem;
+}
